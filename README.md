@@ -1,4 +1,4 @@
-# IdeSkripsi
+# Ide Skripsi Android
 ide tentang skripsi sesuai materi yang telah di terima
 
 Obby Auliyaur Rohman - TI4A - 1641723008
